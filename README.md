@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @CorpLynx
-- 👀 I’m interested in Software Development and all things programming
-- 🌱 I’m currently learning the basics of programming and computer science
-- 💞️ I’m looking to collaborate on TBD 👀
+i build things (sometimes with the help of AI)
+to do things I think are cool
 - 📫 How to reach me brichard3132@gmail.com
 
 <!---
